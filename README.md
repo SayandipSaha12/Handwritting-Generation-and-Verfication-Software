@@ -66,3 +66,4 @@ Run Verification.py to verify two handwrittings.
 
 This entire software (including all the models) is integrated into a single app called **[HandyMan](https://github.com/Farhann9088/HandyMan)**.
 
+A Google Drive link is available in the About section, where you can download the application (APK) and start using it.
