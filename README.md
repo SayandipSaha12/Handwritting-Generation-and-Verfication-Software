@@ -64,7 +64,5 @@ Run pdf_to_img_converter.py to convert the generated handwritting pdf to img for
 
 Run Verification.py to verify two handwrittings.
 
-The app for this project is under development and will be available as soon as it is ready.
-
-This entire software (including all the models) is integrated into an app called **[HandyMan](https://github.com/Farhann9088/HandyMan)**.
+This entire software (including all the models) is integrated into a single app called **[HandyMan](https://github.com/Farhann9088/HandyMan)**.
 
